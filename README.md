@@ -1,7 +1,7 @@
 # Parking Space Counter
 This project uses OpenCV to count the number of available parking spaces from a video feed. The system can detect and update the status of parking spots in real-time based on the number of cars occupying them.
 
-![Capture d’écran 2024-09-22 193921](https://github.com/user-attachments/assets/4316a165-02c6-472f-ae40-35bf30405fbf)
+![Input data (15,138)](https://github.com/user-attachments/assets/475c565a-1e95-4aa4-9e21-5f2fc9a409b4)
 
 ## Project Overview
 This project provides a simple parking space counter application using image processing techniques with OpenCV. It allows the user to:
@@ -49,7 +49,7 @@ To start the parking space counter:
 ## Demo Video
 Watch the demo video to see the project in action:
 
-[Demo Video](https://youtu.be/ZAP1PcgNj2c)
+[Demo Video](https://www.youtube.com/watch?v=OBRKwprxShc)
 ## Contact
 If you have any questions or need further assistance, feel free to contact me:
 
