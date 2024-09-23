@@ -45,6 +45,11 @@ To start the parking space counter:
   ```bash
   python main.py
 - The available parking spots will be shown on the video with real-time updates.
+
+## Demo Video
+Watch the demo video to see the project in action:
+
+[Demo Video](https://youtu.be/ZAP1PcgNj2c)
 ## Contact
 If you have any questions or need further assistance, feel free to contact me:
 
